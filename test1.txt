@@ -1,0 +1,8 @@
+precondition 
+
+etapes a executer 
+
+resultat attendu 
+
+
+post condition 
