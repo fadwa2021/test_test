@@ -1,5 +1,6 @@
 precondition 
 
+la connexion internet est etablie 
 etapes a executer 
 
 resultat attendu 
